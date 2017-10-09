@@ -4,7 +4,9 @@
 
 # Desyrel-Font
 
-Desyrel is an unique handwriting-style, serif display font, available for use under the MIT License.
+Desyrel is an unique handwriting-style, serif display font, available for use unkder the MIT License.
+
+Includes uppercase and lowercase letters
 
 ### Examples:
 ![thequickbrownfoxjumpsoverthelazydog](images/thequickbrownfoxjumpsoverthelazydog.png "thequickbrownfoxjumpsoverthelazydog")
